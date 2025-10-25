@@ -4,6 +4,14 @@ import { Badge } from './ui/badge';
 import { ArrowDown, Github, Linkedin, Mail } from 'lucide-react';
 import { heroData } from '../data/heroData';
 
+type Star = {
+  x: number;
+  y: number;
+  size: number;
+  opacity: number;
+  speed: number;
+};
+
 const Hero = () => {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const stars = useRef<Star[]>([]);

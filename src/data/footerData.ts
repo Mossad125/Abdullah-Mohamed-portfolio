@@ -3,20 +3,20 @@ export const footerData = {
   socialLinks: [
     {
       name: 'GitHub',
-      url: 'https://github.com/johndoe',
+      url: 'https://github.com/Abdallah4000',
       icon: 'Github'
     },
     {
       name: 'LinkedIn',
-      url: 'https://www.linkedin.com/in/johndoe/',
+      url: 'https://www.linkedin.com/in/abdallahuabdo/',
       icon: 'Linkedin'
     },
     {
       name: 'Email',
-      url: 'mailto:johndoe@example.com',
+      url: 'mailto:abdallahUabdo@gmail.com',
       icon: 'Mail'
     }
   ],
-  quote: '"Code is like humor. When you have to explain it, it’s bad."',
-  githubCodeLink: 'https://github.com/raulrls/Astro-Shadcn-portfolio'
+  quote: '"Code is poetry"',
+  githubCodeLink: 'https://www.linkedin.com/in/mossad-hesham/'
 };
