@@ -20,10 +20,10 @@ export const projects: Project[] = [
     title: "Horse Skeleton Sim",
     summary: "A fully integrated, interactive system for anatomy education. Features QR-scannable bones, performance analytics, and assessment tools. Developed for Delta University - faculty of veterinary medicine.",
     images: [
-      "public/images/pro1.jpg",
-      "public/images/2.jpg",
-      "public/images/3.jpg",
-      "public/images/4.jpg",
+      "/images/pro1.jpg",
+      "/images/2.jpg",
+      "/images/3.jpg",
+      "/images/4.jpg",
     ],
     tags: ["Unity", "Blender", "Unity"],
     details: {
@@ -40,8 +40,8 @@ export const projects: Project[] = [
     title: "Tech-Care: Eye-Controlled Wheelchair",
     summary: "Built AR-based virtual wheelchair control with eye-tracking technologies.",
     images: [
-      "public/images/5.jpg",
-      "public/images/6.jpg",
+      "/images/5.jpg",
+      "/images/6.jpg",
     ],
     tags: ["C#", "Unity", "AR", "OOP", "Eye-Tracking"],
     details: {
@@ -58,10 +58,10 @@ export const projects: Project[] = [
     title: "TLit-Nology Game",
     summary: "A smart, immersive platform that transforms novels into interactive simulations, letting users inhabit characters, experience their psychology, choices, and conflicts through dynamic dialogues, branching narratives, and AI-driven emotional feedback. Developed for Delta University - Faculty of Arts.",
     images: [
-      "public/images/7.jpg",
-      "public/images/8.jpg",
-      "public/images/9.jpg",
-      "public/images/10.jpg",
+      "/images/7.jpg",
+      "/images/8.jpg",
+      "/images/9.jpg",
+      "/images/10.jpg",
     ],
     tags: ["C#", "Unity", "AR", "OOP", "Game Design"],
     details: {
@@ -79,10 +79,10 @@ export const projects: Project[] = [
     title: "Dhaleez",
     summary: "Dhaleez is an immersive narrative game where players navigate multiple character perspectives in a branching interactive world. The title combines visual-novel storytelling with behavioral simulation, enabling players to explore storylines through varying viewpoints and experience the ripple effects of their decisions across characters and plot.",
     images: [
-      "public/images/11.jpg",
-      "public/images/12.jpg",
-      "public/images/13.jpg",
-      "public/images/14.jpg",
+      "/images/11.jpg",
+      "/images/12.jpg",
+      "/images/13.jpg",
+      "/images/14.jpg",
     ],
     tags: ["C#", "Unity", "AR", "OOP", "Game Design"],
     details: {
