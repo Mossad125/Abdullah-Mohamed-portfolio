@@ -1,5 +1,4 @@
 
-
 export const heroData = {
   name: 'Abdallah Mohamed Abdo',
   title: ' AR & Game Programmer',
