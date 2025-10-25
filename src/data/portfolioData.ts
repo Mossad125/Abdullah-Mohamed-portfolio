@@ -55,7 +55,7 @@ export const projects: Project[] = [
 
     {
     id: 3,
-    title: "TLit-Nology Game",
+    title: "Lit-Nology Game",
     summary: "A smart, immersive platform that transforms novels into interactive simulations, letting users inhabit characters, experience their psychology, choices, and conflicts through dynamic dialogues, branching narratives, and AI-driven emotional feedback. Developed for Delta University - Faculty of Arts.",
     images: [
       "/images/7.jpg",

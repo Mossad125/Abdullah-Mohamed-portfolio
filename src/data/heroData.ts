@@ -1,7 +1,7 @@
 
 export const heroData = {
   name: 'Abdallah Mohamed Abdo',
-  title: ' AR & Game Programmer',
+  title: 'Game, XR & Software Developer',
   description: 'Passionate Unity Developer specializing in AR, 3D, and 2D technologies with strong C# skills.',
   profilePicture: "/images/44.jpg",
   skills: [
